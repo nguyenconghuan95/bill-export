@@ -1,0 +1,54 @@
+body {
+    background-color: grey;
+}
+
+.page_scrapper {
+    background-color: white;
+    margin: auto;
+    width: 60%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#logo {
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+
+.header, .content, .footer {
+    width: 80%;
+    margin: auto;
+}
+
+.header table {
+    width: 100%;
+}
+
+#intro_left {
+    float: left;
+    text-align: center;
+}
+
+#intro_right {
+    float: right;
+    text-align: center;
+}
+
+#date_line {
+    text-align: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.footer {
+    background-color: rgb(32, 50, 150);
+    color: white;
+    text-align: right;
+}
